@@ -1,2 +1,4 @@
 # hello-world
-Coce Cola is the better one
+Learning about Github!
+
+I'm Yopi and i wanna start a video game making career
